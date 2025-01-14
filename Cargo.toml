@@ -1,0 +1,11 @@
+[package]
+name = "singlethread-cell"
+version = "0.0.0"
+edition = "2021"
+documentation = "https://docs.rs/singlethread-cell"
+description = "A `Cell` type that knows that there is only one thread"
+license = "Apache-2.0 WITH LLVM-exception"
+repository = "https://github.com/sunfishcode/singlethread-cell"
+authors = ["Dan Gohman <dev@sunfishcode.online>"]
+keywords = ["no_std"]
+categories = ["no-std"]
